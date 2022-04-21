@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/medicine-commons/medicine-commons.iml" filepath="$PROJECT_DIR$/medicine-commons/medicine-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicine-pojo/medicine-pojo.iml" filepath="$PROJECT_DIR$/medicine-pojo/medicine-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicine-product/medicine-product.iml" filepath="$PROJECT_DIR$/medicine-product/medicine-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicine-product/medicine-product-service/medicine-product-service.iml" filepath="$PROJECT_DIR$/medicine-product/medicine-product-service/medicine-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicine-product/medicine-product-webapi/medicine-product-webapi.iml" filepath="$PROJECT_DIR$/medicine-product/medicine-product-webapi/medicine-product-webapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicine-server-project.iml" filepath="$PROJECT_DIR$/medicine-server-project.iml" />
+    </modules>
+  </component>
+</project>
