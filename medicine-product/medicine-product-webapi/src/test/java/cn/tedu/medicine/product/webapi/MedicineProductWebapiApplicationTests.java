@@ -17,7 +17,7 @@ class MedicineProductWebapiApplicationTests {
 
     @Test
     void contextLoads() throws Exception {
-        log.debug("获取连接为{}",dataSource.getConnection());
+        //log.debug("获取连接为{}",dataSource.getConnection());
     }
 
 }
