@@ -10,7 +10,6 @@
         <module name="medicine-pojo" />
         <module name="medicine-commons" />
         <module name="medicine-product-webapi" />
-        <module name="medicine-product-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
